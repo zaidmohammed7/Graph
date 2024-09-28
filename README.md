@@ -1,7 +1,7 @@
 # Graph
 
 ## Overview
-This program implements a graph of using an adjacency list (data from https://snap.stanford.edu/data/roadNet-CA.html), providing functionality to manipulate and analyze the graph structure. It is designed for educational purposes as part of the CS 141 course in Fall 2022.
+This program implements a graph of using an adjacency list (data from https://snap.stanford.edu/data/roadNet-CA.html), providing functionality to manipulate and analyze the graph structure.
 
 ## Features
 The program supports the following features:
